@@ -9,6 +9,9 @@ Questo è un semplice programma in Python progettato per facilitare il download 
 - **Funzionale**: Nonostante sia un progetto semplice, è già completamente operativo.
 - **In continuo miglioramento**: Ho in programma di aggiungere ulteriori funzionalità in futuro. Ogni suggerimento è il benvenuto!
 
+### Download
+Puoi scaricare il programma direttamente da [Google Drive](LINK_PER_SCARICARE).
+
 ![FiveM Artifacts Downloader](https://r2.fivemanage.com/pub/0efq1p3skw10.png)
 
 ### Contributi:
@@ -24,6 +27,9 @@ This is a simple Python program designed to facilitate the download of **FiveM a
 - **Automation** of the process: No more manual downloads and extraction.
 - **Functional**: Despite being a simple project, it is already fully operational.
 - **Continuously improving**: I plan to add more features in the future. Any suggestions are welcome!
+
+### Download
+You can download the program directly from [Google Drive](LINK_PER_SCARICARE).
 
 ![FiveM Artifacts Downloader](https://r2.fivemanage.com/pub/0efq1p3skw10.png)
 
