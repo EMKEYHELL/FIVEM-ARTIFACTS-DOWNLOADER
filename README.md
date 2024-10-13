@@ -36,6 +36,3 @@ You can download the program directly from [Google Drive](LINK_PER_SCARICARE).
 ### Contributions:
 If you have ideas, suggestions, or improvements, feel free to contribute! This is an open repository for any type of feedback.
 
-
-![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
-
